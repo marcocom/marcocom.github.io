@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[23],{"5O/x":function(e,t,n){"use strict";n.r(t);var i=n("sOrj"),a=n("qxJ8"),c=n("gNjq"),r=n("q1tI"),o=n.n(r),p=i.b.infiniti;t.default=function(){return o.a.createElement(c.c,{pageTitle:p.title},o.a.createElement(a.a,{project:p}))}}}]);
+//# sourceMappingURL=component---src-pages-infiniti-jsx-dfc5c3a1633e34ca9dc8.js.map

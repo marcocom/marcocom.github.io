@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[31],{"6lfP":function(e,t,n){"use strict";n.r(t);var a=n("sOrj"),r=n("qxJ8"),c=n("gNjq"),i=n("q1tI"),o=n.n(i),p=a.b.marriott;t.default=function(){return o.a.createElement(c.c,{pageTitle:p.title},o.a.createElement(r.a,{project:p}))}}}]);
+//# sourceMappingURL=component---src-pages-marriott-jsx-010f7b64bc3c64c9c74b.js.map
