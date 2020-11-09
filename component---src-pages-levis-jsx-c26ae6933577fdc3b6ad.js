@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[28],{yUlT:function(e,t,n){"use strict";n.r(t);var a=n("sOrj"),c=n("qxJ8"),r=n("gNjq"),i=n("q1tI"),l=n.n(i),o=a.b.levis;t.default=function(){return l.a.createElement(r.c,{pageTitle:o.title},l.a.createElement(c.a,{project:o}))}}}]);
+//# sourceMappingURL=component---src-pages-levis-jsx-c26ae6933577fdc3b6ad.js.map

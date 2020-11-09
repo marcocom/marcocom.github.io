@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[25],{"n+s+":function(e,t,n){"use strict";n.r(t);var a=n("sOrj"),r=n("qxJ8"),c=n("gNjq"),i=n("q1tI"),s=n.n(i),o=a.b.istrategy;t.default=function(){return s.a.createElement(c.c,{pageTitle:o.title},s.a.createElement(r.a,{project:o}))}}}]);
-//# sourceMappingURL=component---src-pages-istrategy-jsx-00a8a651602879df763f.js.map

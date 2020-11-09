@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[43],{HEjl:function(e,t,n){"use strict";n.r(t);var a=n("sOrj"),o=n("qxJ8"),r=n("gNjq"),c=n("q1tI"),i=n.n(c),p=a.b.yoroto;t.default=function(){return i.a.createElement(r.c,{pageTitle:p.title},i.a.createElement(o.a,{project:p}))}}}]);
+//# sourceMappingURL=component---src-pages-yoroto-jsx-3d7b270f27338b331655.js.map
