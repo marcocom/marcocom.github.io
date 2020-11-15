@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[24],{F1Tc:function(e,t,n){"use strict";n.r(t);var c=n("sOrj"),a=n("qxJ8"),r=n("gNjq"),p=n("q1tI"),i=n.n(p),o=c.b.jcpenney;t.default=function(){return i.a.createElement(r.c,{pageTitle:o.title},i.a.createElement(a.a,{project:o}))}}}]);
-//# sourceMappingURL=component---src-pages-jcpenney-jsx-7b1b9a1fabe6931dea8a.js.map

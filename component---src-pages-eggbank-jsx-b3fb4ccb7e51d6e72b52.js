@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[17],{vVaG:function(e,t,n){"use strict";n.r(t);var a=n("sOrj"),c=n("qxJ8"),r=n("gNjq"),i=n("q1tI"),o=n.n(i),p=a.b.eggbank;t.default=function(){return o.a.createElement(r.c,{pageTitle:p.title},o.a.createElement(c.a,{project:p}))}}}]);
-//# sourceMappingURL=component---src-pages-eggbank-jsx-b3fb4ccb7e51d6e72b52.js.map

@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[45],{LjmD:function(e,t,n){"use strict";n.r(t);var a=n("sOrj"),c=n("qxJ8"),o=n("gNjq"),r=n("q1tI"),i=n.n(r),p=a.b.vodafone;t.default=function(){return i.a.createElement(o.c,{pageTitle:p.title},i.a.createElement(c.a,{project:p}))}}}]);
+//# sourceMappingURL=component---src-pages-vodafone-jsx-7e2aba67fba6d0333704.js.map
