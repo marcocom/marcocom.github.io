@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[29],{YzTp:function(e,t,n){"use strict";n.r(t);var a=n("sOrj"),c=n("qxJ8"),p=n("gNjq"),r=n("q1tI"),i=n.n(r),o=a.b.kpn;t.default=function(){return i.a.createElement(p.c,{pageTitle:o.title},i.a.createElement(c.a,{project:o}))}}}]);
+//# sourceMappingURL=component---src-pages-kpn-jsx-dfc9432b946b13750269.js.map

@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{ofp8:function(e,t,n){"use strict";n.r(t);var a=n("sOrj"),c=n("qxJ8"),r=n("gNjq"),i=n("q1tI"),o=n.n(i),p=a.b.disney;t.default=function(){return o.a.createElement(r.c,{pageTitle:p.title},o.a.createElement(c.a,{project:p}))}}}]);
-//# sourceMappingURL=component---src-pages-disney-jsx-6d98405a47436ff0f8ac.js.map

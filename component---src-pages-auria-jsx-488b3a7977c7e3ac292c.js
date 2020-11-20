@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{xZm6:function(e,t,a){"use strict";a.r(t);var n=a("sOrj"),r=a("qxJ8"),c=a("gNjq"),i=a("q1tI"),o=a.n(i),p=n.b.auria;t.default=function(){return o.a.createElement(c.c,{pageTitle:p.title},o.a.createElement(r.a,{project:p}))}}}]);
-//# sourceMappingURL=component---src-pages-auria-jsx-488b3a7977c7e3ac292c.js.map
