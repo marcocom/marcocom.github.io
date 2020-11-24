@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[35],{hA3X:function(e,t,n){"use strict";n.r(t);var a=n("sOrj"),c=n("qxJ8"),r=n("gNjq"),s=n("q1tI"),i=n.n(s),o=a.b.samsung;t.default=function(){return i.a.createElement(r.c,{pageTitle:o.title},i.a.createElement(c.a,{project:o}))}}}]);
+//# sourceMappingURL=component---src-pages-samsung-jsx-894ef5fedb8074bc10c3.js.map
