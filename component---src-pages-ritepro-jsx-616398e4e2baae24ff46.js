@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[35],{hBlW:function(e,t,n){"use strict";n.r(t);var r=n("sOrj"),a=n("qxJ8"),c=n("gNjq"),i=n("q1tI"),o=n.n(i),p=r.b.ritepro;t.default=function(){return o.a.createElement(c.c,{pageTitle:p.title},o.a.createElement(a.a,{project:p}))}}}]);
-//# sourceMappingURL=component---src-pages-ritepro-jsx-616398e4e2baae24ff46.js.map

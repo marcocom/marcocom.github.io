@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[39],{eywB:function(e,t,a){"use strict";a.r(t);var n=a("sOrj"),c=a("qxJ8"),r=a("gNjq"),i=a("q1tI"),o=a.n(i),p=n.b.stadia;t.default=function(){return o.a.createElement(r.c,{pageTitle:p.title},o.a.createElement(c.a,{project:p}))}}}]);
-//# sourceMappingURL=component---src-pages-stadia-jsx-5047381c959d2f5c1200.js.map

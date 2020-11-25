@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[42],{JXBE:function(e,t,n){"use strict";n.r(t);var a=n("sOrj"),r=n("qxJ8"),c=n("gNjq"),o=n("q1tI"),i=n.n(o),p=a.b.tombrady;t.default=function(){return i.a.createElement(c.c,{pageTitle:p.title},i.a.createElement(r.a,{project:p}))}}}]);
-//# sourceMappingURL=component---src-pages-tombrady-jsx-1307172626414d29efbc.js.map
