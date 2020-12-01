@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[29],{Bf3C:function(e,t,n){"use strict";n.r(t);var a=n("sOrj"),r=n("qxJ8"),c=n("gNjq"),i=n("q1tI"),o=n.n(i),p=a.b.landcruiser;t.default=function(){return o.a.createElement(c.c,{pageTitle:p.title},o.a.createElement(r.a,{project:p}))}}}]);
-//# sourceMappingURL=component---src-pages-landcruiser-jsx-1864945f7aec56faffd7.js.map

@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[37],{gNfy:function(e,t,n){"use strict";n.r(t);var a=n("sOrj"),c=n("qxJ8"),i=n("gNjq"),r=n("q1tI"),o=n.n(r),p=a.b.sixtymin;t.default=function(){return o.a.createElement(i.c,{pageTitle:p.title},o.a.createElement(c.a,{project:p}))}}}]);
-//# sourceMappingURL=component---src-pages-sixtymin-jsx-4f2a224bca08e17128c3.js.map

@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[17],{rsqj:function(e,t,n){"use strict";n.r(t);var r=n("sOrj"),a=n("qxJ8"),c=n("gNjq"),o=n("q1tI"),s=n.n(o),i=r.b.dockers;t.default=function(){return s.a.createElement(c.c,{pageTitle:i.title},s.a.createElement(a.a,{project:i}))}}}]);
-//# sourceMappingURL=component---src-pages-dockers-jsx-ece07212c29eea1f4f3d.js.map

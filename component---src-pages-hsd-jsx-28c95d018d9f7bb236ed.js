@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[20],{o8nn:function(e,t,n){"use strict";n.r(t);var a=n("sOrj"),c=n("qxJ8"),r=n("gNjq"),o=n("q1tI"),i=n.n(o),p=a.c.hsd;t.default=function(){return i.a.createElement(r.c,{pageTitle:p.title},i.a.createElement(c.a,{project:p}))}}}]);
+//# sourceMappingURL=component---src-pages-hsd-jsx-28c95d018d9f7bb236ed.js.map

@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{qBIp:function(e,t,n){"use strict";n.r(t);var a=n("sOrj"),c=n("qxJ8"),r=n("gNjq"),i=n("q1tI"),p=n.n(i),o=a.b.diesel;t.default=function(){return p.a.createElement(r.c,{pageTitle:o.title},p.a.createElement(c.a,{project:o}))}}}]);
-//# sourceMappingURL=component---src-pages-diesel-jsx-dfd04b7dc3fa7db1327d.js.map

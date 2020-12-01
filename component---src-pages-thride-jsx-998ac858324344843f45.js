@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[38],{Vyhb:function(e,t,n){"use strict";n.r(t);var a=n("sOrj"),c=n("qxJ8"),r=n("gNjq"),i=n("q1tI"),o=n.n(i),p=a.c.thride;t.default=function(){return o.a.createElement(r.c,{pageTitle:p.title},o.a.createElement(c.a,{project:p}))}}}]);
+//# sourceMappingURL=component---src-pages-thride-jsx-998ac858324344843f45.js.map
