@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkportfolio_2020=self.webpackChunkportfolio_2020||[]).push([[573],{9806:function(e,t,i){i.r(t);var o=i(5490),r=i(9761),c=i(6392),l=i(7294);const{infiniti:n}=o.projects;t.default=()=>l.createElement(c.Ar,{pageTitle:n.title},l.createElement(r.IK,{project:n}))}}]);
+//# sourceMappingURL=component---src-pages-infiniti-jsx-52df62c981ab8bf484ed.js.map

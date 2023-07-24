@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkportfolio_2020=self.webpackChunkportfolio_2020||[]).push([[938],{8511:function(e,t,o){o.r(t);var r=o(5490),c=o(9761),l=o(6392),p=o(7294);const{yoroto:a}=r.projects;t.default=()=>p.createElement(l.Ar,{pageTitle:a.title},p.createElement(c.IK,{project:a}))}}]);
+//# sourceMappingURL=component---src-pages-yoroto-jsx-6ad58111bf88cadb3022.js.map

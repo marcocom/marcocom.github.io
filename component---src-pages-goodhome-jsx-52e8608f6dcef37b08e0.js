@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[19],{"4n9d":function(e,t,n){"use strict";n.r(t);var a=n("sOrj"),c=n("qxJ8"),o=n("gNjq"),r=n("q1tI"),i=n.n(r),p=a.c.goodhome;t.default=function(){return i.a.createElement(o.c,{pageTitle:p.title},i.a.createElement(c.a,{project:p}))}}}]);
-//# sourceMappingURL=component---src-pages-goodhome-jsx-52e8608f6dcef37b08e0.js.map

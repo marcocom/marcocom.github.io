@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkportfolio_2020=self.webpackChunkportfolio_2020||[]).push([[240],{6782:function(e,t,o){o.r(t);var r=o(5490),c=o(9761),l=o(6392),n=o(7294);const{disney:p}=r.projects;t.default=()=>n.createElement(l.Ar,{pageTitle:p.title},n.createElement(c.IK,{project:p}))}}]);
+//# sourceMappingURL=component---src-pages-disney-jsx-8af1e7633ac0f3af71a8.js.map

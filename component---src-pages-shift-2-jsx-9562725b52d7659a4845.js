@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkportfolio_2020=self.webpackChunkportfolio_2020||[]).push([[993],{2219:function(e,t,o){o.r(t);var r=o(5490),c=o(9761),l=o(6392),p=o(7294);const{shift2:s}=r.projects;t.default=()=>p.createElement(l.Ar,{pageTitle:s.title},p.createElement(c.IK,{project:s}))}}]);
+//# sourceMappingURL=component---src-pages-shift-2-jsx-9562725b52d7659a4845.js.map

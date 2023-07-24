@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkportfolio_2020=self.webpackChunkportfolio_2020||[]).push([[986],{5460:function(e,t,r){r.r(t);var o=r(5490),a=r(9761),c=r(6392),l=r(7294);const{auria:p}=o.projects;t.default=()=>l.createElement(c.Ar,{pageTitle:p.title},l.createElement(a.IK,{project:p}))}}]);
+//# sourceMappingURL=component---src-pages-auria-jsx-9716fc194950465fbc92.js.map

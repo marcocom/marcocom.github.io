@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkportfolio_2020=self.webpackChunkportfolio_2020||[]).push([[860],{9496:function(e,t,r){r.r(t);var o=r(5490),a=r(9761),c=r(6392),l=r(7294);const{raadnwin:n}=o.projects;t.default=()=>l.createElement(c.Ar,{pageTitle:n.title},l.createElement(a.IK,{project:n}))}}]);
+//# sourceMappingURL=component---src-pages-raadnwin-jsx-323b05df84cf4911549e.js.map

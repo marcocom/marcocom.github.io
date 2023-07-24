@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkportfolio_2020=self.webpackChunkportfolio_2020||[]).push([[549],{1336:function(e,t,o){o.r(t);var r=o(5490),c=o(9761),l=o(6392),a=o(7294);const{vodafone:n}=r.projects;t.default=()=>a.createElement(l.Ar,{pageTitle:n.title},a.createElement(c.IK,{project:n}))}}]);
+//# sourceMappingURL=component---src-pages-vodafone-jsx-8a2a050dcf6ae2f2d9d0.js.map

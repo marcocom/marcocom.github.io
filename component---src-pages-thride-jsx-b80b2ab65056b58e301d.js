@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkportfolio_2020=self.webpackChunkportfolio_2020||[]).push([[156],{6869:function(e,t,r){r.r(t);var o=r(5490),c=r(9761),l=r(6392),p=r(7294);const{thride:a}=o.projects;t.default=()=>p.createElement(l.Ar,{pageTitle:a.title},p.createElement(c.IK,{project:a}))}}]);
+//# sourceMappingURL=component---src-pages-thride-jsx-b80b2ab65056b58e301d.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkportfolio_2020=self.webpackChunkportfolio_2020||[]).push([[689],{2209:function(e,t,r){r.r(t);var c=r(5490),l=r(9761),o=r(6392),a=r(7294);const{landcruiser:n}=c.projects;t.default=()=>a.createElement(o.Ar,{pageTitle:n.title},a.createElement(l.IK,{project:n}))}}]);
+//# sourceMappingURL=component---src-pages-landcruiser-jsx-b8a49dba1027da9df9dd.js.map

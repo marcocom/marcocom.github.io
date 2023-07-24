@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkportfolio_2020=self.webpackChunkportfolio_2020||[]).push([[904],{8018:function(e,t,l){l.r(t);var o=l(5490),r=l(9761),c=l(6392),p=l(7294);const{levis:s}=o.projects;t.default=()=>p.createElement(c.Ar,{pageTitle:s.title},p.createElement(r.IK,{project:s}))}}]);
+//# sourceMappingURL=component---src-pages-levis-jsx-7a8ef4187c0cda94ec84.js.map

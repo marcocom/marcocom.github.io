@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{ygdb:function(e,t,a){"use strict";a.r(t);var n=a("sOrj"),c=a("qxJ8"),r=a("gNjq"),i=a("q1tI"),o=a.n(i),p=n.c.adidas;t.default=function(){return o.a.createElement(r.c,{pageTitle:p.title},o.a.createElement(c.a,{project:p}))}}}]);
-//# sourceMappingURL=component---src-pages-adidas-jsx-312037f9da74bc6b1e0b.js.map

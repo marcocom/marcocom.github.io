@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkportfolio_2020=self.webpackChunkportfolio_2020||[]).push([[777],{6579:function(e,t,c){c.r(t);var o=c(5490),r=c(9761),l=c(6392),n=c(7294);const{jcpenney:p}=o.projects;t.default=()=>n.createElement(l.Ar,{pageTitle:p.title},n.createElement(r.IK,{project:p}))}}]);
+//# sourceMappingURL=component---src-pages-jcpenney-jsx-6d128f884f1f01c5ead2.js.map

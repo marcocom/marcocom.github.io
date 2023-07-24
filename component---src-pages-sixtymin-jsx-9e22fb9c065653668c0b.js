@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkportfolio_2020=self.webpackChunkportfolio_2020||[]).push([[980],{7958:function(e,t,o){o.r(t);var r=o(5490),c=o(9761),l=o(6392),i=o(7294);const{sixtymin:n}=r.projects;t.default=()=>i.createElement(l.Ar,{pageTitle:n.title},i.createElement(c.IK,{project:n}))}}]);
+//# sourceMappingURL=component---src-pages-sixtymin-jsx-9e22fb9c065653668c0b.js.map

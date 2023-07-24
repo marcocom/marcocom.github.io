@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkportfolio_2020=self.webpackChunkportfolio_2020||[]).push([[554],{8658:function(e,t,r){r.r(t);var o=r(5490),c=r(9761),l=r(6392),a=r(7294);const{istrategy:p}=o.projects;t.default=()=>a.createElement(l.Ar,{pageTitle:p.title},a.createElement(c.IK,{project:p}))}}]);
+//# sourceMappingURL=component---src-pages-istrategy-jsx-464bcaa1b141f07e027c.js.map

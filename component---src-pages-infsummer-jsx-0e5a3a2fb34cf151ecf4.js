@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkportfolio_2020=self.webpackChunkportfolio_2020||[]).push([[423],{3890:function(e,t,r){r.r(t);var o=r(5490),c=r(9761),l=r(6392),n=r(7294);const{infsummer:p}=o.projects;t.default=()=>n.createElement(l.Ar,{pageTitle:p.title},n.createElement(c.IK,{project:p}))}}]);
+//# sourceMappingURL=component---src-pages-infsummer-jsx-0e5a3a2fb34cf151ecf4.js.map
